@@ -1,0 +1,39 @@
+body {
+    background-image: url("abu.png");
+}
+
+.hey{
+		font-family: 'Pacifico', cursive;
+		text-align : left;
+		font-size : 40px;
+		color : green;
+}
+
+.yeh{
+		font-family: 'Questrial', sans-serif;
+}
+
+p{
+	line-height: 30px;
+	text-align: justify;
+}
+
+.satu{
+	border-style: solid;
+    border-width: 2px;
+    padding: 5px 5px 5px 5px;
+}
+
+.tell{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 50px;
+	color: #ff0066;
+}
+
+.more{
+	text-align: center;
+	font-family: 'Patua One', cursive;
+	font-size: 40px;
+}
+
